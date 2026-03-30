@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dmolmay
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning RPA (UIPath).
+- 🌱 I’m currently learning AWS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: diego.molina.mayol@gmail.com
 
